@@ -1,0 +1,24 @@
+{
+  "short_name": "Bible Quiz",
+  "name": "Bible Quiz - Scripture Knowledge",
+  "description": "Test your knowledge of Scripture — grow your relationship with Jesus.",
+  "icons": [
+    {
+      "src": "/improved_bible_quiz_icon_1781298923445.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/improved_bible_quiz_icon_1781298923445.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#534AB7",
+  "display": "standalone",
+  "orientation": "portrait"
+}
